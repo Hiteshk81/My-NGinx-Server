@@ -33,8 +33,6 @@ http://localhost:3000
 Place your index.html, about.html, and contact.html in the root directory.
 
 ## Project Structure
-
-repo-name/
 ├── index.html
 ├── about.html
 ├── contact.html
